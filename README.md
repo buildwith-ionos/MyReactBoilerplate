@@ -1,6 +1,6 @@
-## Ship to IONOS
+## Deploy
 
-[![Ship to IONOS](ship-to-ionos.webp)](https://buildwith.ionos.com/setup?repo=https://github.com/buildwith-ionos/MyReactBoilerplate)
+[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/ionos-deploy-now/MyReactBoilerplate)
 
 A simple ReactJS boilerplate, made by [p32929](https://github.com/p32929/MyReactBoilerplatehttps://github.com/p32929/MyReactBoilerplate)
 
